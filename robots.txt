@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cury-art.github.io/cury/sitemap.xml
