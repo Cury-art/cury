@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Página principal -->
+  <url>
+    <loc>https://cury-art.github.io/cury/</loc>
+    <lastmod>2025-09-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Imagem principal -->
+    <image:image>
+      <image:loc>https://cury-art.github.io/cury/cury.jpg</image:loc>
+      <image:caption>Pintura a óleo de E. Cury: cena de caravana com dromedários e palmeiras</image:caption>
+      <image:title>E. Cury - Caravana (óleo sobre tela)</image:title>
+    </image:image>
+  </url>
+
+</urlset>
